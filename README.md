@@ -11,7 +11,6 @@ Jonas Pereira Alves ❤️ of Programmation
 - Agente de Microcrédito Rural - Instituto Nordeste e Cidadania.
 - Apoio Administrativo - PRIME Serviços - Banco do Nordeste - BNB
 
-- [Documentação GitHub](https://docs.github.com/)
 
 ## 🔍 Resumos sobre mim
 | Church ⛪|
@@ -26,7 +25,8 @@ Jonas Pereira Alves ❤️ of Programmation
 - PHP.
 
 ```
-git init
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ```
 
 
